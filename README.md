@@ -1,9 +1,9 @@
-Tabletop Simulator Modding:
+JAMM to Tabletop Simulator Modding:
 
-This Unity project is for our advanced Tabletop Simulator modders that want to have complete control over their custom objects with additional features. 
-Anything that Unity engine provides besides scripting can be exported as an AssetBundle and then reimported into Tabletop Simulator.
-This includes full shader / material support, animations, sounds, lights, particles, and much more.
+This Unity project is a merger of Tabletopsimulator's unity template and JAMM's unity template.
 
-For all the info you need for this project: https://kb.tabletopsimulator.com/custom-content/custom-assetbundle/
+This file will allow you to pass OBJ files exported from JAMM into the project where you can assign textures and export to Tabletop Simulator.
 
-We provide scripting support with a Lua API: https://api.tabletopsimulator.com/
+For the JAMM outline list of steps: https://www.cavebear.studio/obj-tutorial
+
+For Tabletop Simulator's outline: https://kb.tabletopsimulator.com/custom-content/custom-assetbundle/
